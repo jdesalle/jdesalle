@@ -2,9 +2,7 @@
 
 I'm a student, pursuing a degree in Computer Sciences at the Université Catholique de Louvain(Uclouvain), at Louvain-La-Neuve in Belgium. 
 
-My main topic of interest in IT is cybersecurity, but I love computer sciences as a whole. 
-
-CTF enthusiast.
+Cybersecurity and CTF enthusiast.
 
 ### My GitHub stats
 <p align="left">
