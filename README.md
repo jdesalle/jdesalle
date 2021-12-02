@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student, pursuing a degree in Computer Sciences at the Université Catholique de Louvain(Uclouvain), at Louvain-La-Neuve in Belgium. 
+I'm a student, pursuing a Master degree in Computer Sciences at the Université Catholique de Louvain(Uclouvain), at Louvain-La-Neuve in Belgium. 
 
 Cybersecurity and CTF enthusiast.
 
